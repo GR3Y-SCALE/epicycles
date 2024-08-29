@@ -1,0 +1,14 @@
+{
+  "name": "squarewave",
+  "version": "1.0.0",
+  "main": "FourerSeries.js",
+  "scripts": {
+  "predeploy": "cp -r public/* ./",
+  "deploy": "git add . && git commit -m 'Deploy' && git push"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+  
+}
